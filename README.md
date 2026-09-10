@@ -1,14 +1,6 @@
 # seiyuu-game
 
-> Portfolio project by Arseniy Makhonin.
-
 A Next.js guessing game that uses Shikimori data to connect anime characters and voice actors.
-
-## Highlights
-
-- Maintained as a reproducible, source-first portfolio project.
-- Build outputs, local secrets, proprietary dumps, and generated runtime data are excluded from version control.
-- The repository keeps project documentation close to the implementation.
 
 ## Technology
 
